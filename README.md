@@ -2,6 +2,7 @@
 
 A tourism agency website that enables anyone to book Safari Tours, check out Egypt's special beaches and islands, and attend special and unique city tours in Hurghada, Luxor, Cairo, and more.
 
-EGYROM Tours is also supported with an interactive 3D simulation of some of Egypt's best services, as well as some of Egypt's most popular and luxurious landmarks!
+EGYROM Tours is also supported by an interactive 3D simulation of some of Egypt's best services and most popular and luxurious landmarks!
 
-[image](https://github.com/user-attachments/assets/cc3a1c4d-56b6-4689-a4dd-67e6f1d212bd)
+
+![EGYROMTOURS Logo](https://github.com/user-attachments/assets/a12b7db2-24ca-45bf-877f-1f8a60be9a48)
