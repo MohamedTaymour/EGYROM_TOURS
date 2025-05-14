@@ -75,6 +75,18 @@ const Signup = () => {
           <p className="text-red-500 text-sm mb-2">{errors.lastName}</p>
         )}
 
+          <input
+          type="email"
+          name="email"
+          placeholder="Email"
+          className="w-full mb-2 px-4 py-2 border rounded"
+          value={formData.lastName}
+          onChange={handleChange}
+        />
+        {errors.lastName && (
+          <p className="text-red-500 text-sm mb-2">{errors.lastName}</p>
+        )}
+
         <input
           type="password"
           name="password"
