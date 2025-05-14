@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import LoginModal from './LoginModal';
 
-export const NavBar = () => {
+const NavBar = () => {
   const [showLogin, setShowLogin] = useState(false);
   const navigate = useNavigate();
 
@@ -26,5 +26,7 @@ export const NavBar = () => {
       {showLogin && <LoginModal onClose={() => setShowLogin(false)} />}
     </nav>
   );
+
 };
 
+  export default NavBar;
