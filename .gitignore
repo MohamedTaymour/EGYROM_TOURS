@@ -1,0 +1,37 @@
+# Node modules
+Client/node_modules/
+Server/node_modules/
+
+  
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build output
+dist/
+build/
+
+# dotenv files
+.env
+
+# macOS and Linux junk
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Parcel / Vite / Webpack cache
+.cache/
+.parcel-cache/
+
+# React static site build
+/public/build/
